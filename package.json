@@ -1,0 +1,11 @@
+{
+  "name": "xgenerator",
+  "version": "0.1.0",
+  "description": "a tool for generate a project from templates",
+  "main":"xgenerator.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "inquirer": "^3.0.1",
+    "metalsmith": "^2.3.0"
+  }
+}
